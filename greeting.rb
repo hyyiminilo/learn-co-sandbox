@@ -1,12 +1,5 @@
-def greeting
-  puts "Hello World"
+def print_one_plus_one
+  puts 1+1
 end
 
-greeting
-greeting
-greeting 
-greeting
-greeting
-greeting
-greeting
-greeting
+print_one_plus_one
